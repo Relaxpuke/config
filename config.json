@@ -1,5 +1,5 @@
 {
-    "columns_per_grid": 5,
+    "columns_per_grid": 4,
     "frame_cache_size": 200,
     "save_frame_count": 6,
     "start_percentage": 8,

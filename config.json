@@ -1,0 +1,20 @@
+{
+    "columns_per_grid": 5,
+    "frame_cache_size": 200,
+    "save_frame_count": 6,
+    "start_percentage": 8,
+    "end_percentage": 10,
+    "frame_display": 11,
+    "back_frame": 2,
+    "back_fast_frame": 3,
+    "back_normal_frame": 4,
+    "back_slow_frame": 7,
+    "exe_path": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\VDON.Electron.Capture.App\\ElectronCapture.exe",
+    "node": true,
+    "title": "画中画",
+    "width": 480,
+    "height": 360,
+    "x_position": 1,
+    "y_position": 1,
+    "url": "https://vdo.ninja/?&view=14se&signalmeter&scale=100&dpi=2&buffer=200&vb=5000"
+}

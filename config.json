@@ -1,5 +1,5 @@
 {
-    "columns_per_grid": 5,
+    "columns_per_grid": 4,
     "frame_cache_size": 200,
     "save_frame_count": 6,
     "start_percentage": 8,
@@ -12,7 +12,7 @@
     "exe_path": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\VDON.Electron.Capture.App\\ElectronCapture.exe",
     "node": true,
     "title": "画中画",
-    "width": 480,
+    "width": 880,
     "height": 360,
     "x_position": 1,
     "y_position": 1,
